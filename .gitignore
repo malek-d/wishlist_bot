@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Sensitive data
+.env
+wishlist-project-77ef4-firebase-adminsdk-27u38-d55ef4d3f0.json
